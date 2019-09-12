@@ -45,3 +45,4 @@ npm run serve
 
 https://framework7io.github.io/framework7-template-tabs/
 # AINurseFramework
+# AINurseFramework
