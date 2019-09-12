@@ -44,3 +44,4 @@ npm run serve
 ## Live Preview
 
 https://framework7io.github.io/framework7-template-tabs/
+# AINurseFramework
